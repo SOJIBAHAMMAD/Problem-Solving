@@ -1,4 +1,4 @@
-// Brute force method TC is O(n2)
+// Brute force method TC is O( n2 )
 // #include<bits/stdc++.h>
 // using namespace std;
 // #define ll long long
